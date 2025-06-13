@@ -12,5 +12,19 @@
       <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
       <guid>https://example.com/test1</guid>
     </item>
+     <item>
+      <title>Second Test Item</title>
+      <link>https://example.com/test2</link>
+      <description>This is the first test item</description>
+      <pubDate>Fri, 13 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>https://example.com/test2</guid>
+    </item>
+  <item>
+      <title>Third Test Item</title>
+      <link>https://example.com/test3</link>
+      <description>This is the first test item</description>
+      <pubDate>Fri, 13 Jun 2025 09:00:00 +0000</pubDate>
+      <guid>https://example.com/test1</guid>
+    </item>
   </channel>
 </rss>
