@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>More actions
+<rss version="2.0">
+  <channel>
+    <title>My Test RSS Feed with GUIDS</title>
+    <link>https://example.com/</link>
+    <description>This is a test RSS feed with GUIDS</description>
+    <language>en-us</language>
+    <item>
+      <title>First Test Item</title>
+      <link>https://example.com/test1</link>
+      <description>This is the first test item - updated</description>
+      <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
+      <guid>https://example.com/test1</guid>
+    </item>
+     <item>
+      <title>Third Test Item</title>
+      <link>https://example.com/test3a</link>
+      <description>This is the third test item - updated also the link</description>
+      <pubDate>Fri, 13 Jun 2025 09:00:00 +0000</pubDate>
+      <guid>https://example.com/test3</guid>
+    </item>     <item>
+      <title>Second Test Item</title>
+      <link>https://example.com/test2</link>
+      <description>This is the first test item</description>
+      <pubDate>Fri, 13 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>https://example.com/test2</guid>
+    </item>
+  <item>
+      <title>Third Test Item</title>
+      <link>https://example.com/test3</link>
+      <description>This is the third test item</description>
+      <pubDate>Fri, 12 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>https://example.com/test3</guid>
+    </item>
+	<item>
+      <title>First Test Item</title>
+      <link>https://example.com/test1</link>
+      <description>This is the first test item - original</description>
+      <pubDate>Fri, 13 Jun 2025 11:00:00 +0000</pubDate>
+      <guid>https://example.com/test1</guid>
+    </item>
+  </channel>
+</rss>
