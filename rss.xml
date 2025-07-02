@@ -8,23 +8,26 @@
     <item>
       <title>First Test Item</title>
       <link>https://example.com/test1</link>
-      <description>This is the first test item</description>
-      <pubDate>Fri, 13 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>https://example.com/test1</guid>
+      <description>This is the first test item - adjusted</description>
+      <pubDate>Fri, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
      <item>
       <title>Second Test Item</title>
       <link>https://example.com/test2</link>
-      <description>This is the first test item</description>
-      <pubDate>Fri, 13 Jun 2025 10:00:00 +0000</pubDate>
-      <guid>https://example.com/test2</guid>
+      <description>This is the second test item</description>
+      <pubDate>Fri, 13 Jun 2025 08:00:00 +0000</pubDate>
     </item>
   <item>
       <title>Third Test Item</title>
       <link>https://example.com/test3</link>
-      <description>This is the first test item</description>
+      <description>This is the third test item</description>
       <pubDate>Fri, 13 Jun 2025 09:00:00 +0000</pubDate>
-      <guid>https://example.com/test1</guid>
+    </item>
+    <item>
+      <title>First Test Item</title>
+      <link>https://example.com/test1</link>
+      <description>This is the first test item - original</description>
+      <pubDate>Fri, 12 Jun 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
